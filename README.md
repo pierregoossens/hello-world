@@ -1,4 +1,5 @@
 # hello-world
-My first repository.
+
+Deleted my first repository.
 
 Discovering the wonderfull world of software changes.
